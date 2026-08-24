@@ -599,9 +599,9 @@ Initial final release containing:
 
 # License
 
-This project is intended for academic, research, and educational use.
+This project is licensed under the MIT License.
 
-If this project is redistributed or extended, please retain the original project attribution and documentation.
+See the [LICENSE](LICENSE) file for the full license text.
 
 ---
 
